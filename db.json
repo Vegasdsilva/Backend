@@ -1,0 +1,37 @@
+{
+  "Clientes": [
+    {
+      "id": 1,
+      "Nome": "Erickson Vegas da Silva",
+      "CPF": "000000000-00",
+      "Endereço": {
+        "Rua": "Rua Capitão Manuel Guimarães",
+        "Bairro": "Vila Rosaria",
+        "CEP": "08021-290"
+      }
+      
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "SerVerzinho",
+      "author": "papaleguas e coyote",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
